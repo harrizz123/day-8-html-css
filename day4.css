@@ -1,0 +1,14 @@
+     /* h1{
+        color:red;
+     }*/
+     /*.head1 {
+        color:blue;
+     }
+    /* #para1{
+        color:blueviolet;
+     }*/
+     *{
+        color: brown;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
