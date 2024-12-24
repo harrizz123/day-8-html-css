@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding:0%
+}
+.box1{
+    background-color: rgb(0, 255, 255);  
+    height: 65px;
+    color: orangered;
+    background-image: url('day3.html/carimage.avif');
+
+padding-bottom: 50px;
+background-repeat:no-repeat;
+background-position:50%;
+/*background-position y: 200px;*/
+background-size:1500px 900px;
+opacity: 1;;
+}
+.box2{
+    height: 50px;
+    background-image: url('day3.html/hong-kong-street-view.jpg');
+    background-size: cover;
+    background-repeat: repeat-x;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+.box3{
+    height: 100px;
+    width: 600px;
+    background-color: bisque;
+    color: azure;
+    border-width: 5px;
+    border-color: black;
+    background-image: url('day3.html/neonimage.jpg');
+    border-style: solid;
+padding-top: 30px;
+padding-left: 10px;
+padding-bottom: 30px;
+margin-left: 250px;
+margin-top: 50px;
+margin:auto
+}
+.box4{
+    height: 100px;
+    width: 600px;
+    background-color: bisque;
+    color: aliceblue;
+    background-image: url('day3.html/neon2.avif');
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+margin-left: 250px;
+margin-top: 10px;
+margin:50px 100px 10px 50px;
+}
