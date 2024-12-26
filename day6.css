@@ -7,13 +7,16 @@
     height: 65px;
     color: orangered;
     background-image: url('day3.html/carimage.avif');
-
-padding-bottom: 50px;
+padding-top: 10px;
+padding-bottom: 20px;
 background-repeat:no-repeat;
 background-position:50%;
 /*background-position y: 200px;*/
 background-size:1500px 900px;
-opacity: 1;;
+opacity: 1;
+border-width: 3px;
+border-color: black;
+border-style: solid;
 }
 .box2{
     height: 50px;

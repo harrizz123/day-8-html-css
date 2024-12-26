@@ -1,0 +1,33 @@
+
+.first{
+       
+}
+.box1{
+    text-align: center;
+}
+
+
+
+
+
+.box3{
+    height: 600px;
+    width: 600px;
+    background-color: bisque;
+    
+    color: azure;
+    border-width: 5px;
+    border-color: black;
+    background-image: url('day3.html/todolistbg.webp');
+    border-style: solid;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+padding-top: 30px;
+padding-left: 10px;
+padding-bottom: 30px;
+margin-left: 250px;
+margin-top: 50px;
+margin:auto
+}

@@ -1,0 +1,33 @@
+
+.first{
+    margin-left:0%;
+}
+*{
+    
+    margin: 50px;
+    background-color: rgb(25,25,25);
+    color: rgb(212,212,212);
+}
+.box1{
+    padding-bottom: 100px;
+}
+
+    .first{
+        margin-left:-9%;
+        margin-top: -9%;
+      
+    }
+    .box2{
+        padding-top: px;
+    }
+    .box3{
+        height: 1000px;
+        width:500px;
+        background-image: url('day3.html/todolistbg.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+.mark{
+    margin-left: -30px;
+}

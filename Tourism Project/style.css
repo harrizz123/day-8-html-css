@@ -1,0 +1,12 @@
+.bgcontainer{
+    background-image: url("https://ik.imagekit.io/2mnnsc5py/mern%20batch%2012/sea-ocean.webp?updatedAt=1735194414281");
+    height: 600px;
+    width: 300px;
+    background-size: cover;
+}
+.bg-fav-container{
+    background-image: url("https://ik.imagekit.io/2mnnsc5py/mern%20batch%2012/taj-mahal.webp?updatedAt=1735213361885");
+    height: 540px;
+    width: 360px;
+    background-size: cover;
+}
